@@ -4,3 +4,5 @@ data/*
 
 !data/queries_fixadas.txt
 elastic-lab/*
+
+.*
